@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: About Chanachai
 permalink: /about/
 ---
 
-Some information about you!
+Name : Chanachai Saisombut    
+Age : 21
+Date : 02/02/2539
 
 ### More Information
 
