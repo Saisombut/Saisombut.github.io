@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 Name : Chanachai Saisombut    
-Age : 21
-Date : 02/02/2539
 
 ### More Information
 
